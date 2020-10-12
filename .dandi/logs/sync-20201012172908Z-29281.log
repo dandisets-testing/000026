@@ -1,0 +1,83 @@
+2020-10-12T13:29:08-0400 [INFO    ] dandi Traversing remote dandisets (000026) recursively
+2020-10-12T13:29:08-0400 [INFO    ] backups2datalad.py Updating metadata file
+2020-10-12T13:29:11-0400 [INFO    ] backups2datalad.py Syncing asset /derivatives/ParameterMaps/sub-I46/flash10.nii.gz
+2020-10-12T13:29:11-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-12T13:29:11-0400 [INFO    ] backups2datalad.py Syncing asset /derivatives/ParameterMaps/sub-I46/flash20.nii.gz
+2020-10-12T13:29:12-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-12T13:29:12-0400 [INFO    ] backups2datalad.py Syncing asset /derivatives/ParameterMaps/sub-I46/flash30.nii.gz
+2020-10-12T13:29:12-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-12T13:29:12-0400 [INFO    ] backups2datalad.py Syncing asset /derivatives/ParameterMaps/sub-I46/PD.nii.gz
+2020-10-12T13:29:13-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-12T13:29:13-0400 [INFO    ] backups2datalad.py Syncing asset /derivatives/ParameterMaps/sub-I46/sse.nii.gz
+2020-10-12T13:29:13-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-12T13:29:13-0400 [INFO    ] backups2datalad.py Syncing asset /derivatives/ParameterMaps/sub-I46/T1.nii.gz
+2020-10-12T13:29:13-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-12T13:29:13-0400 [INFO    ] backups2datalad.py Syncing asset /derivatives/ParameterMaps/sub-I46/T2star.nii.gz
+2020-10-12T13:29:14-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-12T13:29:14-0400 [INFO    ] backups2datalad.py Syncing asset /derivatives/SPIMStitchedSlices/sub-I46/I46_n01.7z
+2020-10-12T13:29:14-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-12T13:29:14-0400 [INFO    ] backups2datalad.py Syncing asset /derivatives/SPIMStitchedSlices/sub-I46/I46_n02.7z
+2020-10-12T13:29:15-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-12T13:29:15-0400 [INFO    ] backups2datalad.py Syncing asset /derivatives/SPIMStitchedSlices/sub-I46/I46_n03.7z
+2020-10-12T13:29:15-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-12T13:29:15-0400 [INFO    ] backups2datalad.py Syncing asset /derivatives/SPIMStitchedSlices/sub-I46/I46_n04.7z
+2020-10-12T13:29:15-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-12T13:29:15-0400 [INFO    ] backups2datalad.py Syncing asset /derivatives/SPIMStitchedSlices/sub-I46/I46_n05.7z
+2020-10-12T13:29:16-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-12T13:29:16-0400 [INFO    ] backups2datalad.py Syncing asset /derivatives/SPIMStitchedSlices/sub-I46/I46_n06.7z
+2020-10-12T13:29:16-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-12T13:29:16-0400 [INFO    ] backups2datalad.py Syncing asset /derivatives/SPIMStitchedSlices/sub-I46/I46_n07.7z
+2020-10-12T13:29:16-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-12T13:29:16-0400 [INFO    ] backups2datalad.py Syncing asset /rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-1_fa-1_VFA.json
+2020-10-12T13:29:17-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-12T13:29:17-0400 [INFO    ] backups2datalad.py Syncing asset /rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-1_fa-1_VFA.nii.gz
+2020-10-12T13:29:17-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-12T13:29:17-0400 [INFO    ] backups2datalad.py Syncing asset /rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-1_fa-2_VFA.json
+2020-10-12T13:29:17-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-12T13:29:17-0400 [INFO    ] backups2datalad.py Syncing asset /rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-1_fa-2_VFA.nii.gz
+2020-10-12T13:29:17-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-12T13:29:17-0400 [INFO    ] backups2datalad.py Syncing asset /rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-1_fa-3_VFA.json
+2020-10-12T13:29:18-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-12T13:29:18-0400 [INFO    ] backups2datalad.py Syncing asset /rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-1_fa-3_VFA.nii.gz
+2020-10-12T13:29:18-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-12T13:29:18-0400 [INFO    ] backups2datalad.py Syncing asset /rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-2_fa-1_VFA.json
+2020-10-12T13:29:18-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-12T13:29:18-0400 [INFO    ] backups2datalad.py Syncing asset /rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-2_fa-1_VFA.nii.gz
+2020-10-12T13:29:19-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-12T13:29:19-0400 [INFO    ] backups2datalad.py Syncing asset /rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-2_fa-2_VFA.json
+2020-10-12T13:29:19-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-12T13:29:19-0400 [INFO    ] backups2datalad.py Syncing asset /rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-2_fa-2_VFA.nii.gz
+2020-10-12T13:29:19-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-12T13:29:19-0400 [INFO    ] backups2datalad.py Syncing asset /rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-2_fa-3_VFA.json
+2020-10-12T13:29:20-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-12T13:29:20-0400 [INFO    ] backups2datalad.py Syncing asset /rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-2_fa-3_VFA.nii.gz
+2020-10-12T13:29:20-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-12T13:29:20-0400 [INFO    ] backups2datalad.py Syncing asset /rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-3_fa-1_VFA.json
+2020-10-12T13:29:20-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-12T13:29:20-0400 [INFO    ] backups2datalad.py Syncing asset /rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-3_fa-1_VFA.nii.gz
+2020-10-12T13:29:21-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-12T13:29:21-0400 [INFO    ] backups2datalad.py Syncing asset /rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-3_fa-2_VFA.json
+2020-10-12T13:29:21-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-12T13:29:21-0400 [INFO    ] backups2datalad.py Syncing asset /rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-3_fa-2_VFA.nii.gz
+2020-10-12T13:29:21-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-12T13:29:21-0400 [INFO    ] backups2datalad.py Syncing asset /rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-3_fa-3_VFA.json
+2020-10-12T13:29:22-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-12T13:29:22-0400 [INFO    ] backups2datalad.py Syncing asset /rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-3_fa-3_VFA.nii.gz
+2020-10-12T13:29:22-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-12T13:29:22-0400 [INFO    ] backups2datalad.py Syncing asset /rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-4_fa-1_VFA.json
+2020-10-12T13:29:22-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-12T13:29:22-0400 [INFO    ] backups2datalad.py Syncing asset /rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-4_fa-1_VFA.nii.gz
+2020-10-12T13:29:23-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-12T13:29:23-0400 [INFO    ] backups2datalad.py Syncing asset /rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-4_fa-2_VFA.json
+2020-10-12T13:29:23-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-12T13:29:23-0400 [INFO    ] backups2datalad.py Syncing asset /rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-4_fa-2_VFA.nii.gz
+2020-10-12T13:29:23-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-12T13:29:23-0400 [INFO    ] backups2datalad.py Syncing asset /rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-4_fa-3_VFA.json
+2020-10-12T13:29:23-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-12T13:29:23-0400 [INFO    ] backups2datalad.py Syncing asset /rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-4_fa-3_VFA.nii.gz
+2020-10-12T13:29:24-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-12T13:29:24-0400 [INFO    ] backups2datalad.py Syncing asset /rawdata/sub-I46/ses-MRI/anat/test.json
+2020-10-12T13:29:24-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-12T13:29:24-0400 [INFO    ] backups2datalad.py Syncing asset /rawdata/sub-I46/ses-OCT/I46-OCT-nor.tif
+2020-10-12T13:29:24-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-12T13:29:24-0400 [INFO    ] backups2datalad.py Commiting changes
